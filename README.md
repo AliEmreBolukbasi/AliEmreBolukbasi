@@ -5,5 +5,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.iconfinder.com/icons/5296501/download/svg/512" />][linkedin]
 [<img align="left" alt="Email" width="22px" src="https://www.iconfinder.com/icons/4202011/download/svg/512" />][email]
 
-[linkedin]: www.kariyer.net/ozgecmis/aliemrebolukbasi?o=c15o 
-[email]: mailto:aliemre7373@gmail.com
+[linkedin]: https://www.linkedin.com/in/y%C3%BCcel-sar%C4%B1kaya-86232b166/
+[email]: mailto:berkaykata@gmail.com
+
+ 
