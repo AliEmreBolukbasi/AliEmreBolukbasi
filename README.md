@@ -7,5 +7,3 @@
 
 [linkedin]: www.kariyer.net/ozgecmis/aliemrebolukbasi?o=c15o 
 [email]: mailto:aliemre7373@gmail.com
-
- 
